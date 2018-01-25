@@ -1,6 +1,8 @@
 # LECTURE_01_25
 Thursday
 
+# What happens when you do `git clone`
+
 
 # Maven
 
