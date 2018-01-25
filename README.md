@@ -3,6 +3,12 @@ Thursday
 
 # What happens when you do `git clone`
 
+When you type this command:
+
+```
+git clone git@github.com:UCSB-CS56-pconrad/cs56-rational-ex04.git
+```
+
 
 # Maven
 
