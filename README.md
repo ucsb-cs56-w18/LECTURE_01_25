@@ -9,6 +9,15 @@ When you type this command:
 git clone git@github.com:UCSB-CS56-pconrad/cs56-rational-ex04.git
 ```
 
+It is the same as:
+* `mkdir cs56-rational-ex04`
+* `cd cs56-rational-ex04`
+* `git init`
+   * turns a regular Unix directory (or Mac or Windows folder) into a git repo
+* `git remote add origin git@github.com:UCSB-CS56-pconrad/cs56-rational-ex04.git`
+   * adds a remote called `origin` that points back to that particular url
+  
+The point is: these are equivalent processes.  
 
 # Maven
 
