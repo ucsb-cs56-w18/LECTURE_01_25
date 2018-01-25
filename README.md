@@ -19,6 +19,17 @@ It is the same as:
   
 The point is: these are equivalent processes.  
 
+# Where to get the JUnit jar from
+
+One place is: https://www.cs.ucsb.edu/~pconrad/cs56/lib/
+
+Or on CSIL, the directory
+
+```
+/cs/faculty/pconrad/public_html/cs56/lib/
+```
+
+
 # Maven
 
 * <https://maven.apache.org/guides/getting-started/>
