@@ -57,3 +57,8 @@ And really, it should be as follows (the `\` are just there to show that the com
 ```
 mvn -B archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=edu.ucsb.cs56.w18.yourgithubid.myapp -DartifactId=my-app
 ```
+
+# Making the jar executable
+
+* <https://maven.apache.org/shared/maven-archiver/examples/classpath.html>
+
